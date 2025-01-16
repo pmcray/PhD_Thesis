@@ -1,0 +1,1 @@
+This repository contains a PDF scan of my 1997 University of Salford PhD thesis, *Gravimetric, Neutron Scattering and Computational Studies of the Sorption and Diffusion of Gases in Zeolites*. The scan was carried out by the British Library.
